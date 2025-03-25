@@ -1,0 +1,22 @@
+:root {
+    --primary-purple: #5829B4;
+    --primary-teal: #008B9B;
+    --text-color: #333333;
+    --border-color: #E5E5E5;
+  }
+  
+  #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family:"Andada Pro", serif;
+    color: var(--text-color);
+    background-color: #d5e7ec;
+  }
+  
